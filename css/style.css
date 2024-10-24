@@ -1,0 +1,17 @@
+.banner{
+    text-transform: uppercase;
+}
+
+.banner h2{
+    font-size: 17vh;
+}
+
+.banner p{
+    font-size: 5vh;
+    font-style: italic;
+}
+.products .card{
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
